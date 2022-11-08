@@ -2,7 +2,6 @@
 
 using namespace std;
 
-//garv_bhatt
 
 int pff(int page[],int mc,int n1)
 {
